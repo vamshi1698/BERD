@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* OpenLayers Styles */
+.ol-control {
+  background-color: rgba(255,255,255,0.4);
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.ol-zoom {
+  top: 0.5em;
+  left: 0.5em;
+}
+
+.ol-zoom-in,
+.ol-zoom-out {
+  background-color: white;
+  border: none;
+  color: #666;
+  font-size: 1.14em;
+  font-weight: bold;
+  height: 1.375em;
+  line-height: 0.4em;
+  margin: 1px;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  width: 1.375em;
+}
+
+.ol-zoom-in:hover,
+.ol-zoom-out:hover {
+  background-color: #f4f4f4;
+}
+
+.ol-attribution {
+  bottom: 0;
+  right: 0;
+  background: rgba(255,255,255,0.8);
+  max-width: calc(100% - 1.3em);
+  font-size: 10px;
+}
