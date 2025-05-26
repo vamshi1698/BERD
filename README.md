@@ -91,8 +91,7 @@ For system administrators managing backend operations and analytics:
 
 For issues, suggestions, or technical assistance, please contact:
 
-📧 support@safetyportal.org  
-📱 +91-XXXXXX1234 (WhatsApp Only)
+📧 vamshia332@gmail.com
 
 ---
 
